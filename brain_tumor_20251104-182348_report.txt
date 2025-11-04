@@ -1,0 +1,11 @@
+Per-class metrics (precision / recall / f1 / support):
+
+      glioma: P=0.643 R=0.367 F1=0.467 N=300
+  meningioma: P=0.667 R=0.105 F1=0.181 N=306
+     notumor: P=0.888 R=0.432 F1=0.581 N=405
+   pituitary: P=0.334 R=0.997 F1=0.500 N=300
+
+Averages:
+accuracy   : 0.470
+   macro avg: P=0.633 R=0.475 F1=0.432 N=1311
+weighted avg: P=0.654 R=0.470 F1=0.443 N=1311
